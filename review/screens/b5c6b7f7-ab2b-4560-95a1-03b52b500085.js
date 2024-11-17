@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1731881205322.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1731881981247.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-b5c6b7f7-ab2b-4560-95a1-03b52b500085" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Reservations"width="1440" height="1024">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/b5c6b7f7-ab2b-4560-95a1-03b52b500085/style-1731881205322.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/b5c6b7f7-ab2b-4560-95a1-03b52b500085/fonts-1731881205322.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/b5c6b7f7-ab2b-4560-95a1-03b52b500085/style-1731881981247.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/b5c6b7f7-ab2b-4560-95a1-03b52b500085/fonts-1731881981247.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_2" class="richtext autofit firer ie-background commentable non-processed" customid="H1"   datasizewidth="268.45px" datasizeheight="52.00px" dataX="619.86" dataY="20.00" >\
         <div class="backgroundLayer">\
