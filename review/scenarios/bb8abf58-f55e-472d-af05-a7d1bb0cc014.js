@@ -1,5 +1,5 @@
 var content='<div id="sc-bb8abf58-f55e-472d-af05-a7d1bb0cc014" class="ui-page ui-scenario sc-bb8abf58-f55e-472d-af05-a7d1bb0cc014 " name="Board 1">\
-	<link type="text/css" rel="stylesheet" href="./review/scenarios/bb8abf58-f55e-472d-af05-a7d1bb0cc014/style-1731873687029.css" />\
+	<link type="text/css" rel="stylesheet" href="./review/scenarios/bb8abf58-f55e-472d-af05-a7d1bb0cc014/style-1731881205322.css" />\
     <div class="filterDialog">\
       <span id="filterDialogImage"></span>\
       <span id="filterDialogTitle">Start User flow</span>\
